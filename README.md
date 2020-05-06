@@ -6,7 +6,7 @@ The Mean Shift LBPH algorithm for identiﬁcation of Human Faces in a Video sequ
 2) OpenCV
 
 # Installation
-``git clone ``
+``git clone https://github.com/shivam1423/Real-Time-Identi-cation-of-Human-Faces-Computer-Vision-.git``
 
 cd Real-Time-Identi-cation-of-Human-Faces-Computer-Vision-
 
